@@ -1,7 +1,7 @@
 # cs50_ai_knights
 
 This is a program that solves logic puzzles.
-It forms part of the projects for the course CS50’s Introduction to Artificial Intelligence with Python (https://cs50.harvard.edu/ai/2024/).
+It forms part of the projects for the course [CS50’s Introduction to Artificial Intelligence with Python] (https://cs50.harvard.edu/ai/2024/).
 
 ## Usage
 
